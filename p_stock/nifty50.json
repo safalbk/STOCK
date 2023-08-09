@@ -1,0 +1,208 @@
+{
+    "Nifty50": {
+        "ADANIPORTS": {
+            "stock": "Adani Ports and SEZ",
+            "sector": "Infrastructure"
+        },
+        "ASIANPAINT": {
+            "stock": "Asian Paints",
+            "sector": "Consumer Goods"
+        },
+        "AXISBANK": {
+            "stock": "Axis Bank",
+            "sector": "Banking"
+        },
+        "BAJAJ-AUTO": {
+            "stock": "Bajaj Auto",
+            "sector": "Automobile"
+        },
+        "BAJFINANCE": {
+            "stock": "Bajaj Finance",
+            "sector": "Financial Services"
+        },
+        "BAJAJFINSV": {
+            "stock": "Bajaj Finserv",
+            "sector": "Financial Services"
+        },
+        "BHARTIARTL": {
+            "stock": "Bharti Airtel",
+            "sector": "Telecom"
+        },
+        "BPCL": {
+            "stock": "BPCL",
+            "sector": "Energy"
+        },
+        "BRITANNIA": {
+            "stock": "Britannia Industries",
+            "sector": "Consumer Goods"
+        },
+        "CIPLA": {
+            "stock": "Cipla",
+            "sector": "Pharma"
+        },
+        "COALINDIA": {
+            "stock": "Coal India",
+            "sector": "Mining"
+        },
+        "DIVISLAB": {
+            "stock": "Divi's Laboratories",
+            "sector": "Pharma"
+        },
+        "DRREDDY": {
+            "stock": "Dr. Reddy's Laboratories",
+            "sector": "Pharma"
+        },
+        "EICHERMOT": {
+            "stock": "Eicher Motors",
+            "sector": "Automobile"
+        },
+        "GAIL": {
+            "stock": "GAIL (India)",
+            "sector": "Energy"
+        },
+        "GRASIM": {
+            "stock": "Grasim Industries",
+            "sector": "Cement"
+        },
+        "HCLTECH": {
+            "stock": "HCL Technologies",
+            "sector": "IT"
+        },
+        "HDFC": {
+            "stock": "HDFC",
+            "sector": "Financial Services"
+        },
+        "HDFCBANK": {
+            "stock": "HDFC Bank",
+            "sector": "Banking"
+        },
+        "HDFCLIFE": {
+            "stock": "HDFC Life Insurance",
+            "sector": "Insurance"
+        },
+        "HEROMOTOCO": {
+            "stock": "Hero MotoCorp",
+            "sector": "Automobile"
+        },
+        "HINDALCO": {
+            "stock": "Hindalco Industries",
+            "sector": "Metal"
+        },
+        "HINDUNILVR": {
+            "stock": "HUL (Hindustan Unilever)",
+            "sector": "Consumer Goods"
+        },
+        "ICICIBANK": {
+            "stock": "ICICI Bank",
+            "sector": "Banking"
+        },
+        "IOC": {
+            "stock": "Indian Oil Corporation (IOC)",
+            "sector": "Energy"
+        },
+        "INDUSINDBK": {
+            "stock": "IndusInd Bank",
+            "sector": "Banking"
+        },
+        "INFY": {
+            "stock": "Infosys",
+            "sector": "IT"
+        },
+        "ITC": {
+            "stock": "ITC",
+            "sector": "Consumer Goods"
+        },
+        "JSWSTEEL": {
+            "stock": "JSW Steel",
+            "sector": "Metal"
+        },
+        "KOTAKBANK": {
+            "stock": "Kotak Mahindra Bank",
+            "sector": "Banking"
+        },
+        "LT": {
+            "stock": "L&T (Larsen & Toubro)",
+            "sector": "Infrastructure"
+        },
+        "M&M": {
+            "stock": "Mahindra & Mahindra",
+            "sector": "Automobile"
+        },
+        "MARUTI": {
+            "stock": "Maruti Suzuki",
+            "sector": "Automobile"
+        },
+        "NESTLEIND": {
+            "stock": "Nestle India",
+            "sector": "Consumer Goods"
+        },
+        "NTPC": {
+            "stock": "NTPC",
+            "sector": "Energy"
+        },
+        "ONGC": {
+            "stock": "ONGC (Oil & Natural Gas Corporation)",
+            "sector": "Energy"
+        },
+        "POWERGRID": {
+            "stock": "Power Grid Corporation of India",
+            "sector": "Energy"
+        },
+        "RELIANCE": {
+            "stock": "Reliance Industries",
+            "sector": "Energy"
+        },
+        "SBIN": {
+            "stock": "SBI (State Bank of India)",
+            "sector": "Banking"
+        },
+        "SHREECEM": {
+            "stock": "Shree Cements",
+            "sector": "Cement"
+        },
+        "SUNPHARMA": {
+            "stock": "Sun Pharmaceutical Industries",
+            "sector": "Pharma"
+        },
+        "TATAMOTORS": {
+            "stock": "Tata Motors",
+            "sector": "Automobile"
+        },
+        "TATASTEEL": {
+            "stock": "Tata Steel",
+            "sector": "Metal"
+        },
+        "TCS": {
+            "stock": "TCS (Tata Consultancy Services)",
+            "sector": "IT"
+        },
+        "TECHM": {
+            "stock": "Tech Mahindra",
+            "sector": "IT"
+        },
+        "TITAN": {
+            "stock": "Titan Company",
+            "sector": "Consumer Goods"
+        },
+        "ULTRACEMCO": {
+            "stock": "UltraTech Cement",
+            "sector": "Cement"
+        },
+        "UPL": {
+            "stock": "UPL (United Phosphorus)",
+            "sector": "Chemicals"
+        },
+        "WIPRO": {
+            "stock": "Wipro",
+            "sector": "IT"
+        },
+        "ADANIGREEN": {
+            "stock": "Adani Green Energy",
+            "sector": "Renewable Energy"
+        },
+        "SBILIFE": {
+            "stock": "SBI Life Insurance",
+            "sector": "Insurance"
+        }
+    }
+}
